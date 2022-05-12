@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-basics",
+  "version": "1.0.0",
+  "description": "nodejs tutorial package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vailery/NodeJS-Basics.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "Vailery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vailery/NodeJS-Basics/issues"
+  },
+  "homepage": "https://github.com/Vailery/NodeJS-Basics#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
